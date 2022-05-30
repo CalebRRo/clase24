@@ -1,12 +1,27 @@
 [
 {    
-"nombre" : "Juan",
+"nombre" : "Uri",
 "capacidadDePagoEnCuotas" : 20000,
 "capacidadDePagoTotal" : 100000
 },
 {    
-    "nombre" : "jon",
+    "nombre" : "Eze",
     "capacidadDePagoEnCuotas" : 100000,
     "capacidadDePagoTotal" : 1000000
-    }
+    },
+    {    
+        "nombre" : "Mel",
+        "capacidadDePagoEnCuotas" : 40000,
+        "capacidadDePagoTotal" : 500000
+        },
+        {    
+            "nombre" : "Angel",
+            "capacidadDePagoEnCuotas" : 40000,
+            "capacidadDePagoTotal" : 400000
+            },  
+            {    
+                "nombre" : "hernan",
+                "capacidadDePagoEnCuotas" : 60000,
+                "capacidadDePagoTotal" : 900000
+                }    
 ]
